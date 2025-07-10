@@ -1,0 +1,26 @@
+{
+  "elephant": {
+    "species": "Elephas maximus",
+    "habitat": "Bosques y sabanas",
+    "diet": ["Herb\u00edvoro"],
+    "lifespan": 60
+  },
+  "penguin": {
+    "species": "pajaro que no vuela",
+    "habitat": "Ant\u00e1rtida",
+    "diet": ["Pisc\u00edvoro"],
+    "lifespan": 20
+  },
+  "jirafa": {
+    "species": "Giraffa camelopardalis",
+    "habitat": "Sabana africana",
+    "diet": ["Herb\u00edvoro"],
+    "lifespan": 25
+  },
+    "tiger": {
+    "species": "Gatubelus maximus",
+    "habitat": "Selva",
+    "diet": "Sangriento",
+    "lifespan": 25
+  }
+}

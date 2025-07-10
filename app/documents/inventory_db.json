@@ -1,0 +1,74 @@
+{
+  "equip001": {
+    "name": "Cage de Contenci\u00f3n",
+    "category": "Herramientas de manejo",
+    "quantity": 8,
+    "location": "Almac\u00e9n de Equipos",
+    "condition": "Nuevo",
+    "last_maintenance": "2025-06-15",
+    "description": "Cages de contenci\u00f3n para el traslado temporal de animales grandes."
+  },
+  "equip002": {
+    "name": "Rastrillo de jard\u00edn",
+    "category": "Herramientas de jardiner\u00eda",
+    "quantity": 12,
+    "location": "Almac\u00e9n de Jardiner\u00eda",
+    "condition": "Usado",
+    "last_maintenance": "2025-03-10",
+    "description": "Herramientas para mantenimiento de \u00e1reas verdes y espacios exteriores."
+  },
+  "equip003": {
+    "name": "Manguera de alta presi\u00f3n",
+    "category": "Herramientas de limpieza",
+    "quantity": 4,
+    "location": "\u00c1rea de limpieza",
+    "condition": "Nuevo",
+    "last_maintenance": "2025-07-01",
+    "description": "Mangueras para la limpieza de los recintos de los animales."
+  },
+  "equip004": {
+    "name": "Term\u00f3metro digital para animales",
+    "category": "Equipos m\u00e9dicos",
+    "quantity": 5,
+    "location": "Consultorio Veterinario",
+    "condition": "Nuevo",
+    "last_maintenance": "2025-07-03",
+    "description": "Equipos para monitoreo de la temperatura corporal de los animales."
+  },
+  "equip005": {
+    "name": "Cami\u00f3n de transporte para animales",
+    "category": "Veh\u00edculos",
+    "quantity": 2,
+    "location": "Estacionamiento",
+    "condition": "Usado",
+    "last_maintenance": "2025-05-20",
+    "description": "Veh\u00edculos especializados para el traslado de animales entre recintos."
+  },
+  "equip006": {
+    "name": "Kit de primeros auxilios veterinarios",
+    "category": "Equipos m\u00e9dicos",
+    "quantity": 3,
+    "location": "Consultorio Veterinario",
+    "condition": "Nuevo",
+    "last_maintenance": "2025-04-01",
+    "description": "Kit con materiales m\u00e9dicos para emergencias veterinarias."
+  },
+  "equip007": {
+    "name": "Sistema de riego automatizado",
+    "category": "Mantenimiento de instalaciones",
+    "quantity": 1,
+    "location": "Sistemas de riego",
+    "condition": "Nuevo",
+    "last_maintenance": "2025-06-10",
+    "description": "Sistema automatizado para regar las zonas de c\u00e9sped y jardines del zool\u00f3gico."
+  },
+  "equip008": {
+    "name": "Sillas",
+    "category": "Mobiliario",
+    "quantity": 50,
+    "location": "\u00c1reas de descanso",
+    "condition": "Nuevo",
+    "last_maintenance": "2025-05-15",
+    "description": "Sillas c\u00f3modas para \u00e1reas de descanso de los visitantes del zool\u00f3gico."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emp001": {
+    "name": "Ana G\u00f3mez",
+    "age": 32,
+    "position": "Gerente de Marketing",
+    "salary": 45000,
+    "department": "Marketing",
+    "location": "Madrid"
+  },
+  "emp002": {
+    "name": "Carlos P\u00e9rez",
+    "age": 28,
+    "position": "Desarrollador de Software",
+    "salary": 50000,
+    "department": "Tecnolog\u00eda",
+    "location": "Barcelona"
+  },
+  "emp003": {
+    "name": "Marta Ruiz",
+    "age": 40,
+    "position": "Directora de Recursos Humanos",
+    "salary": 60000,
+    "department": "Recursos Humanos",
+    "location": "Valencia"
+  },
+  "emp004": {
+    "name": "Fran",
+    "age": 50,
+    "position": "Senior",
+    "salary": 150000,
+    "department": "Developer",
+    "location": "Málaga"
+  }
+}
