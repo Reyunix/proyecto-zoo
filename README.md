@@ -59,19 +59,21 @@ Para ejecutar este proyecto en tu entorno local, sigue estos pasos:
 
 4. Activa el entorno virtual:
 
-En Windows:
-    ```bash
+    En Windows:
+    
+        ```bash
+        .\venv\Scripts\activate
 
-    .\venv\Scripts\activate
-
-En macOS/Linux:
-    ```bash
-    source venv/bin/activate
+    En macOS/Linux:
+    
+        ```bash
+        source venv/bin/activate
 
 5. Instala las dependencias del proyecto:
-    ```bash
 
-    pip install -r requirements.txt
+        ```bash
+
+        pip install -r requirements.txt
 
 6. Arranca el servidor uvicorn de FastAPI:
     ```bash
